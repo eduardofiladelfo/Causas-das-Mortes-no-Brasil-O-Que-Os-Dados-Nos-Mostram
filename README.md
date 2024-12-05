@@ -60,7 +60,7 @@ A EDA explorará algumas perguntas sobre os óbitos como:
 - As neoplasias também aumentam ao longo dos anos e, assim como as DCVs, possuem causas em comum, como por exemplo: envelhecimento da população, tabagismo, sedentarismo e maus hábitos alimentares.
 - A exposição prolongada a poluentes e substâncias carciogênicas contribui significativamente para este enfermo, especialmente em áreas urbanas ou industriais.
 - Como os sistemas de saúde no Brasil melhoraram no monitoramento e diagnóstico de doenças, houve um aumento aparente de casos registrados, refletindo melhor a realidade.
-- Das estratégias as quais podemos citar para o controle da enfermidade, é o monitoramento da exposição de poluentes industriais e químicos no ambiente urbano. Outra forma é monitorando também a exposição dos pesticidas.
+- Das estratégias as quais podemos citar para o controle da enfermidade, é o monitoramento da exposição de poluentes industriais e químicos no ambiente urbano. Outra forma é monitorando também a exposição dos pesticidas nos alimentos que consumimos.
 - Para as doenças infecciosas, o Brasil possui tratamento gratuito para as doenças. Além de realizar os testes diagnósticos, que contribuiu para as complicações e mortes. 
 - Um desafio que pode ser citado é que existe a coinfecção de alguma dessas doenças com o HIV/ AIDS: Pessoas portadoras do vírus do HIV enfrentam riscos elevados de tuberculose.
 - As mortes por HIV foram aumentando sucessivamente até 1995, no início dos anos 90, o HIV/AIDS era uma doença relativamente nova. Dessa forma, seu baixo conhecimento resultava na falta de diagnóstico e a limitação de seus tratamentos. 
